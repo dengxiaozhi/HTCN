@@ -1,6 +1,6 @@
 # Triplet Network for Contrastive deep Clustering (TNCC)
 
-By Xiao-Zhi Deng, Dong Huang, Bowen Zhu, Ding-Hua Chen
+By Xiaozhi Deng, Dong Huang, Bowen Zhu, Ding-Hua Chen
 
 This is a Pytorch implementation of the paper.
 
