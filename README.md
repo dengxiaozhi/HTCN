@@ -8,7 +8,7 @@ This is a Pytorch implementation of the paper.
 
 ## Performance
 
-The representation encoder of the proposed SACC is ResNet34.
+The representation encoder of the proposed TNCC is ResNet34.
 
 |    Dataset    | NMI  | ACC  | ARI  |
 | :-----------: | :--: | :--: | :--: |
