@@ -1,6 +1,6 @@
-# Hybrid Tri-stream Network for Contrastive Clustering (HTNCC)
+# Hybrid Tri-stream Clustering Network (HTCN)
 
-By Xiaozhi Deng, Dong Huang, Bowen Zhu, Ding-Hua Chen
+By Xiaozhi Deng, Dong Huang and Chang-Dong Wang
 
 This is a Pytorch implementation of the paper.
 
@@ -8,7 +8,7 @@ This is a Pytorch implementation of the paper.
 
 ## Performance
 
-The representation encoder of the proposed TNCC is ResNet34.
+The representation encoder of the proposed HTCN is ResNet34.
 
 |    Dataset    | NMI  | ACC  | ARI  |
 | :-----------: | :--: | :--: | :--: |
