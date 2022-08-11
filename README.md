@@ -1,4 +1,4 @@
-# Triplet Network for Contrastive deep Clustering (TNCC)
+# Hybrid Tri-stream Network for Contrastive Clustering (HTNCC)
 
 By Xiaozhi Deng, Dong Huang, Bowen Zhu, Ding-Hua Chen
 
