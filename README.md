@@ -4,7 +4,7 @@ By Xiaozhi Deng, Dong Huang and Chang-Dong Wang
 
 This is a Pytorch implementation of the paper.
 
-![network](figures/network.png)
+![network](figures/Network.png)
 
 ## Performance
 
