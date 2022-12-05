@@ -1,4 +1,4 @@
-# Hybrid Tri-stream Clustering Network (HTCN)
+# Heterogeneous Tri-stream Clustering Network (HTCN)
 
 By Xiaozhi Deng, Dong Huang and Chang-Dong Wang
 
